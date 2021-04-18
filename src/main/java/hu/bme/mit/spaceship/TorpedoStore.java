@@ -2,7 +2,7 @@ package hu.bme.mit.spaceship;
 
 import java.util.Random;
 
-/**
+/** Hey, this is branch-A
 * Class storing and managing the torpedoes of a ship
 *
 * (Deliberately contains bugs.)
